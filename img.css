@@ -1,6 +1,6 @@
 .bg-img {
     /* The image used */
-    background-image: url("/css/css/download.jpg");
+    background-image: url("download.jpg");
     /* background-color: red; */
   
     min-height: 380px;

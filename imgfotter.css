@@ -1,4 +1,7 @@
 .container {
+    /* display: inline-block; */
+    display: flex;
+    flex-direction: row;
     position: relative;
     max-width: 800px; /* Maximum width */
     margin: 0 auto; /* Center it */
@@ -13,6 +16,6 @@
     width: 37.3%; /* Full width */
     margin-left: 15px;
     margin-right: 15px;
-    margin-bottom: auto;
+    margin-bottom: 13px;
     padding: 10px; /* Some padding */
   }
